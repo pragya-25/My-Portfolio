@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background: url('header-background.jpg') no-repeat center center;
+  background-size: cover;
+}
+
+.timeline-entry {
+  margin-bottom: 2rem;
+}
+
+.timeline-entry h3 {
+  margin-bottom: 0.5rem;
+}
+
+.timeline-entry p {
+  margin-bottom: 0.5rem;
+}
+
+#contactForm .form-group {
+  margin-bottom: 1.5rem;
+}
